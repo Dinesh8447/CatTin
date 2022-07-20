@@ -1,0 +1,274 @@
+
+body{
+  font-family:'Montserrat', sans-serif;
+   text-align: center;
+}
+
+/*title*/
+#title{
+  background-color: #ff0063;
+   margin-top: 10px;
+}
+
+
+
+.container-flui {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 5%;
+  padding-bottom: 7%;
+ }
+
+.cattin{
+  font-weight: bold;
+}
+
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.navbar-toggler:hover, .navbar-toggler:focus {
+  text-decoration: none;
+}
+
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 0;
+  color: #fff;
+}
+
+#head{
+  size:3rem;
+  line-height:1.2;
+  font: montserrat-black;
+  font-family:'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#head{
+  font-size: 4rem;
+  color: #fff;
+  font-weight: bold;
+  font-family:'Montserrat', sans-serif;
+}
+
+.w-b{
+  border-radius: 30px;
+  margin-top: 5px;
+  margin-left: 20%;
+  transform: rotate(10deg);
+  box-shadow: .75rem .75rem 1rem;
+  position:absolute;
+}
+
+.download-buttons{
+  word-spacing: 2rem;
+  width: 19rem;
+  padding-block: 20px;
+}
+
+#navbartoggledemon2{
+  font-size: 2rem;
+}
+ 
+.navbar-expand-lg {
+  margin-bottom: 50px;
+}
+
+
+/*features*/
+#features{
+  padding: 10% 4%;
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+}
+
+.icons{
+  height: 100px;
+  width: 100px;
+}
+
+/*middle*/
+#middle{
+  padding:5% 4%;
+  text-align: center;
+  background-color: #ec5541;
+}
+
+.icons{
+  height: 100px;
+  width: 100px;
+}
+
+.glass-cat{
+  border-radius: 100%;
+  margin: 1%;
+  height: 200px;
+  width: 200px;
+}
+
+.cat-para{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3rem;
+  color: #ffff;
+}
+
+em{
+  font-weight:lighter;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*press-icon*/
+#press{
+  text-align: center;
+  background-color: #ec5541
+}
+
+.press-icon{
+  padding-bottom: 3%;
+  margin: 10px 40px 10px 40px;
+  width: 15%;
+}
+
+/*pricing*/
+#pricing-title{
+  text-align: center;
+}
+
+#pricing{
+  padding: 100px;
+}
+
+/*bottom*/
+#cat{
+  background-color: #f52a78;
+  text-align: center;
+   padding-top: 100px;
+   padding-bottom: 100px; 
+}
+
+#head-3{
+    font-weight: bold;
+    color: #fff;
+    font-size:50px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+}
+
+.last-button{
+  margin-top: 10px;
+  margin-right: 10px;
+  }
+  
+/*footer*/
+.foot{
+     
+  margin-top: 1rem;
+}
+
+#foot{
+  padding: 70px 30px;
+  text-align: center;
+}
+  
+.social-media{margin-left: 10px;}
+    
+/*navbar-starts*/
+.navbar-brand {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-left: 0;
+  margin-right: 1rem;
+  font-size: 2.35rem;
+  line-height: inherit;
+  white-space: nowrap;
+  color: azure;
+}
+
+.navbar-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  content: "";
+  background: no-repeat center center;
+  background-size: 100% 100%;
+}
+/*navbar-end*/
+
+/*phone-spacing*/
+@media (max-width:991px){
+  .w-b{
+    position: static;
+    transform: rotate(0deg);
+    text-align: center;
+  }  
+  .title{
+    text-align: center;
+  }
+  .head{
+    text-align: center;
+  }
+  #third-cat-para{
+    font-size: 3rem;
+  }
+}
+
+/*all-row*/
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+
+
+
+
+
+
+
+
+  
+ 
+  
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
